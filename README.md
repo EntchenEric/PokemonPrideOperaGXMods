@@ -4,9 +4,9 @@ Dies sind ein Paar Mods zu den meisten LGBTQ Teilnehmern.
 
 Um eine Mod herunterzuladen einfach auf die Mod klicken und oben rechts auf das Download icon klicken.
 
-## Was die mod macht:
+## Was die mods machen:
 - Ein custom Hintergrund für die Opera GX Seite
-- 4 Custom Hintergrundlieder
+- 4 Custom Hintergrundlieder (Bei jeder Mod die selben)
 
 ## Um die Mod zu benutzen müsst ihr **in Opera GX** zu `opera://mods/#` gehen und die .crx Datei einfach per Drag and Drop auf Opera Legen.
 
