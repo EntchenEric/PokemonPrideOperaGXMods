@@ -1,0 +1,91 @@
+{
+    "name": "Trans Feelinara",
+    "description": "Trans Feelinara Background with cute music",
+    "developer":
+    {
+        "name": "EntchenEric"
+    },
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "manifest_version": 3,
+    "mod":
+    {
+        "license": "license.txt",
+        "payload":
+        {
+            "background_music":
+            [
+                "music/track_1.mp3",
+                "music/track_2.mp3",
+                "music/track_3.mp3",
+                "music/track_4.mp3"
+            ],
+            "page_styles":
+            [
+                {
+                    "css":
+                    [
+                        "webmodding/opera.css"
+                    ],
+                    "matches":
+                    [
+                        "https://*.opera.com/*"
+                    ]
+                }
+            ],
+            "theme":
+            {
+                "dark":
+                {
+                    "gx_accent":
+                    {
+                        "h": 346,
+                        "s": 25,
+                        "l": 93
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 198,
+                        "s": 60,
+                        "l": 95
+                    }
+                },
+                "light":
+                {
+                    "gx_accent":
+                    {
+                        "h": 346,
+                        "s": 25,
+                        "l": 93
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 198,
+                        "s": 60,
+                        "l": 95
+                    }
+                }
+            },
+            "wallpaper":
+            {
+                "dark":
+                {   
+                    "image": "wallpaper/dark.png",
+                    "text_color": "#000000",
+                    "text_shadow": "#757575"
+                },
+                "light":
+                {
+                    "image": "wallpaper/video.webm",
+                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "text_color": "#000000",
+                    "text_shadow": "#0B000E"
+                }
+            }
+        },
+        "schema_version": 1
+    },
+    "version": "1.0"
+}
